@@ -2,8 +2,8 @@
 This is a hack project using the Rainbow method. There is a source csv file containing people's names and their hashed passwords using sha256 algorithm and my goal is to find the original passwords which are four-digit numbers (1000-9999). 
 
 . Firstly, create an "input.csv" file contains "username,hashed password" in each row like below:
-\t`danial,99b057c8e3461b97f8d6c461338cf664bc84706b9cc2812daaebf210ea1b9974`
-\t`elham,85432a9890aa5071733459b423ab2aff9f085f56ddfdb26c8fae0c2a04dce84c`
+&nbsp; &nbsp; &nbsp; &nbsp; `danial,99b057c8e3461b97f8d6c461338cf664bc84706b9cc2812daaebf210ea1b9974`
+&nbsp; &nbsp; &nbsp; &nbsp; `elham,85432a9890aa5071733459b423ab2aff9f085f56ddfdb26c8fae0c2a04dce84c`
 
 ### Requirements 🔧
 * Python version 3.9 or higher.
