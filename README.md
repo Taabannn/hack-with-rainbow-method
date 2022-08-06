@@ -5,6 +5,10 @@ This is a hack project using the Rainbow method. There is a source csv file cont
 >      danial,99b057c8e3461b97f8d6c461338cf664bc84706b9cc2812daaebf210ea1b9974
 >      elham,85432a9890aa5071733459b423ab2aff9f085f56ddfdb26c8fae0c2a04dce84c
 
+. Then, after creating an "output.csv" file, run source.py. The output file will be like:
+>      danial,5104
+>      elham,9770
+
 ### Requirements 🔧
 * Python version 3.9 or higher.
 
